@@ -1,0 +1,25 @@
+--- factura de la compra con ID: 1 ---
+Factura emitida a nombre de: Nicolas
+Envio hecho hacia la dirección: 7b
+1 unidad de corral 
+	- con adición de queso mozzarella, con un costo adicional de: 2500
+	- con adición de papa callejera, con un costo adicional de: 2000
+	- se quitó el ingrediente queso americano
+El precio total del producto fue: $18500
+
+1 unidad del combo: combo todoterreno, el combo contiene:
+	- todoterreno
+	- papas grandes
+	- CocaCola Cero
+Al combo se le aplicó un descuento del: 7.000000%
+El precio total del combo es de: $33852.000000
+
+1 unidad de la bebida: Pepsi Cero
+Tiene un precio de: 4500
+
+
+El pedido contiene un total de 4200 calorias
+
+El precio neto de la compra es: $56852
+El precio del IVA de la compra es: $10801.879883
+El precio final de la compra es: $67653.882813

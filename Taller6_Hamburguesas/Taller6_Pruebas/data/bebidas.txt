@@ -1,0 +1,7 @@
+agua cristal sin gas;5000;0
+agua cristal con gas;5000;0
+Colombiana;4500;90
+Pepsi;4500;85
+Pepsi Cero;4500;0
+CocaCola;4500;85
+CocaCola Cero;4500;0

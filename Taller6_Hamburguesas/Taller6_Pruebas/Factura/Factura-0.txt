@@ -1,0 +1,6 @@
+Cliente: 2Dirección: cr7bID: 0
+Nombre: combo corral Precio neto : 22050 IVA : 4189Descuento : 0.1 Precio total : 26239
+
+Precio neto: 22050
+Precio IVA: 4189
+Precio total: 26239

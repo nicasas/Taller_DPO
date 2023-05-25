@@ -1,0 +1,4 @@
+combo corral;10%;corral;papas medianas;Pepsi
+combo corral queso;10%;corral queso;papas medianas;CocaCola
+combo todoterreno;7%;todoterreno;papas grandes;CocaCola Cero
+combo especial;7%;especial;papas medianas;Colombiana
